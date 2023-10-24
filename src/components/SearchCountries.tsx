@@ -70,6 +70,7 @@ export default function SearchCountries() {
             src={imageSrc}
             alt={"Imagem do pais"}
             quality={100}
+            unoptimized={true}
           ></Image>
         </>
       )}
